@@ -8,8 +8,8 @@ Tento repozitář obsahuje samostatný projekt, které byly vytvořen jako souč
 
 ## 📦 Projekt je založen na:
 
-✅ frontend: React<br>
-✅ backend: Spring Boot
+✅ front-end: React<br>
+✅ back-end: Spring Boot
 
 Jedná se o základní správu subjektů (prodávající, kupující) a vystavených (přijatých) faktur.<br>
 Projekt byl tvořen samostatně a za pomocí konzultací s vyučujícími.<br>
