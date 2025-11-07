@@ -2,9 +2,9 @@
 
 Tento repozitář obsahuje samostatný projekt, které byly vytvořen jako součást kurzu na [ITnetwork](https://itnetwork.cz) se specifikací Java PRO (Tvorba www aplikací).<br>
 
-❗ Licence mi neumožňuje sdílet celý kód ve veřejném repozitáři.
-❗ Soubory které by porušovaly licenční podmínky ITnetwork jsou v .gitignore.
-❗ V případě **pracovní nabídky** mohu po dohodě poskytnout přístup do soukromého repozitáře.
+❗ Licence mi neumožňuje sdílet celý kód ve veřejném repozitáři.<br>
+❗ Soubory které by porušovaly licenční podmínky ITnetwork jsou v .gitignore.<br>
+❗ V případě **pracovní nabídky** mohu po dohodě poskytnout přístup do soukromého repozitáře.<br>
 
 ## 📦 Projekt je založen na:
 
