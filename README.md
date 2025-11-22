@@ -16,7 +16,7 @@ Projekt byl tvořen samostatně a za pomocí konzultací s vyučujícími.<br>
 Základní kostra projektu byla poskytnuta ITnetwork.<br>
 
 
-![Náhled aplikace](./screenshots/screen1.png)
-![Náhled aplikace](./screenshots/screen2.png)
-![Náhled aplikace](./screenshots/screen3.png)
-![Náhled aplikace](./screenshots/screen4.png)
+![Náhled aplikace](./screenshots/screen1.png)<br>
+![Náhled aplikace](./screenshots/screen2.png)<br>
+![Náhled aplikace](./screenshots/screen3.png)<br>
+![Náhled aplikace](./screenshots/screen4.png)<br>
